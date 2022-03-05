@@ -1,0 +1,8 @@
+{
+    "allow_change": [
+        "*.h"
+    ],
+    "tests": "test_hash_table",
+    "solutions": "private",
+    "linter": false
+}

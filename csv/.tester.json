@@ -1,0 +1,8 @@
+{
+    "allow_change": [
+        "*.h"
+    ],
+    "tests": "test_csv",
+    "solutions": "private",
+    "linter": false
+}
